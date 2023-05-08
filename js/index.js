@@ -33,6 +33,8 @@ slides.map((images) => {
   divDots.appendChild(htmlDots);
 });
 
+
+
 // Selection de toutes les div avec la classe dot
 
 const dots = document.querySelectorAll(".dot");
